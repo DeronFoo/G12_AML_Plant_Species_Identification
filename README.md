@@ -55,9 +55,9 @@ Our final proposed model ensembles the DINOv2 backbone with a **Metric Learning 
 
 | Model | Top-1 Accuracy | Observation |
 |-------|----------------|-------------|
-| **ConvNeXt** | ~71.5% | High gap between "Seen" and "Unseen" domains. |
+| **ConvNeXt** | ~67.6% | High gap between "Seen" and "Unseen" domains. |
 | **DINOv2** | ~72.9% | Better generalization due to ViT features. |
-| **Hybrid Ensemble** | **Best** | Effectively closes the domain gap using synthetic data + metric learning. |
+| **Hybrid Ensemble** | ~80.7% | Effectively closes the domain gap using synthetic data + metric learning. |
 
 ---
 
