@@ -15,7 +15,7 @@ This project addresses the **domain shift** challenge in plant classification, w
 - **Long-Tail Distribution:** High class imbalance with rare species.
 - **Zero-Shot "Without Pairs":** Identifying species in the field that were never seen in the field during training.
 
-[cite_start]**Dataset:** [PlantCLEF 2020 Challenge](https://www.imageclef.org/PlantCLEF2020) [cite: 18]
+**Dataset:** Subset of PlantCLEF 2020 Challenge
 - **Classes:** 100 species total.
 - **Training:** 4,744 images (3,700 Herbarium + 1,044 Field).
 - **Testing:** 207 Field images (focusing on unseen/rare species).
@@ -29,7 +29,7 @@ The team implemented two decent baselines and a novel hybrid approach combining 
 | Type | Model / Method | Key Details |
 |------|----------------|-------------|
 | **Baseline 1** | **ConvNeXt-Base** (CNN) | A modern CNN architecture fine-tuned on the dataset. Serves as a strong supervised learning baseline. |
-| **Baseline 2** | **DINOv2** (ViT-B/14) | Leverages the self-supervised Vision Transformer pre-trained on plant data. [cite_start]Used for robust feature extraction and fine-tuning. [cite: 36] |
+| **Baseline 2** | **DINOv2** (ViT-B/14) | Leverages the self-supervised Vision Transformer pre-trained on plant data. Used for robust feature extraction and fine-tuning. |
 | **New Approach** | **Metric-Hybrid Ensemble** | **1. Architecture:** An ensemble of a Generalist (Classifier) and a Specialist (Metric Learner) using Triplet Loss.<br>**2. Inference:** Dynamic thresholding to switch between models based on confidence.<br>**3. Data:** Augmented with **FastCut** synthetic images. |
 
 ---
