@@ -1,0 +1,42 @@
+# ==================================
+# Core Deep Learning Framework
+# ==================================
+torch
+torchvision
+torchaudio
+accelerate
+
+# ==================================
+# Data Manipulation & Analysis
+# ==================================
+datasets
+numpy
+pandas
+scikit-learn
+
+# ==================================
+# Computer Vision & Image Processing
+# ==================================
+Pillow
+opencv-python
+
+# ==================================
+# Model Architectures & Analysis
+# ==================================
+timm
+torchsummary
+transformers
+
+# ==================================
+# Visualisation & Plotting
+# ==================================
+matplotlib
+seaborn
+tabulate
+
+# ==================================
+# System & Utility Tools
+# ==================================
+tqdm
+gdown
+psutil

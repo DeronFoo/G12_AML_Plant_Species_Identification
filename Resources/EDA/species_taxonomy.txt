@@ -1,0 +1,101 @@
+class_id;species_name;genus;family
+105951;Maripa glabra Choisy;Maripa;Convolvulaceae
+106023;Merremia umbellata (L.) Hallier fil.;Camonea;Convolvulaceae
+106387;Costus arabicus L.;Costus;Costaceae
+106461;Costus scaber Ruiz & Pav.;Costus;Costaceae
+106466;Costus spiralis (Jacq.) Roscoe;Costus;Costaceae
+110432;Evodianthus funifer (Poit.) Lindm.;Evodianthus;Cyclanthaceae
+116853;Pteridium arachnoideum (Kaulf.) Maxon;Pteridium;Dennstaedtiaceae
+119986;Olfersia cervina (L.) Kunze;Olfersia;Dryopteridaceae
+120497;Diospyros capreifolia Mart. ex Hiern;Diospyros;Ebenaceae
+121836;Sloanea grandiflora Sm.;Sloanea;Elaeocarpaceae
+121841;Sloanea guianensis (Aubl.) Benth.;Sloanea;Elaeocarpaceae
+12254;Anacardium occidentale L.;Anacardium;Anacardiaceae
+12518;Mangifera indica L.;Mangifera;Anacardiaceae
+125412;Sphyrospermum cordifolium Benth.;Sphyrospermum;Ericaceae
+126895;Syngonanthus caulescens (Poir.) Ruhland;Syngonanthus;Eriocaulaceae
+127007;Tonina fluviatilis Aubl.;Paepalanthus;Eriocaulaceae
+127097;Erythroxylum fimbriatum Peyr.;Erythroxylum;Erythroxylaceae
+127151;Erythroxylum macrophyllum Cav.;Erythroxylum;Erythroxylaceae
+127242;Erythroxylum squamatum Sw.;Erythroxylum;Erythroxylaceae
+12910;Spondias mombin L.;Spondias;Anacardiaceae
+12922;Tapirira guianensis Aubl.;Tapirira;Anacardiaceae
+129645;Croton schiedeanus Schltdl.;Croton;Euphorbiaceae
+130657;Euphorbia cotinifolia L.;Euphorbia;Euphorbiaceae
+131079;Euphorbia heterophylla L.;Euphorbia;Euphorbiaceae
+131736;Euphorbia prostrata Aiton;Euphorbia;Euphorbiaceae
+132107;Euphorbia thymifolia L.;Euphorbia;Euphorbiaceae
+132113;Euphorbia tithymaloides L.;Euphorbia;Euphorbiaceae
+132431;Hura crepitans L.;Hura;Euphorbiaceae
+132476;Jatropha curcas L.;Jatropha;Euphorbiaceae
+132501;Jatropha gossypiifolia L.;Jatropha;Euphorbiaceae
+13276;Annona ambotay Aubl.;Annona;Annonaceae
+13325;Annona foetida Mart.;Annona;Annonaceae
+13330;Annona glabra L.;Annona;Annonaceae
+133595;Ricinus communis L.;Ricinus;Euphorbiaceae
+133617;Sapium glandulosum (L.) Morong;Sapium;Euphorbiaceae
+13370;Annona muricata L.;Annona;Annonaceae
+136761;Potalia amara Aubl.;Potalia;Gentianaceae
+138662;Chrysothemis pulchella (Donn.Sm. ex Sims) Decne.;Chrysothemis;Gesneriaceae
+140367;Lembocarpus amoenus Leeuwenb.;Lembocarpus;Gesneriaceae
+141068;Sinningia incarnata (Aubl.) D.L.Denham;Sinningia;Gesneriaceae
+141332;Dicranopteris flexuosa (Schrad.) Underw.;Dicranopteris;Gleicheniaceae
+141336;Dicranopteris pectinata (Willd.) Underw.;Gleichenella;Gleicheniaceae
+142550;Heliconia chartacea Lane ex Barreiros;Heliconia;Heliconiaceae
+142736;Hernandia guianensis Aubl.;Hernandia;Hernandiaceae
+143496;Hymenophyllum hirsutum (L.) Sw.;Hymenophyllum;Hymenophyllaceae
+14353;Guatteria ouregou (Aubl.) Dunal;Guatteria;Annonaceae
+143706;Trichomanes diversifrons (Bory) Mett. ex Sadeb.;Trichomanes;Hymenophyllaceae
+143758;Trichomanes punctatum Poir.;Didymoglossum;Hymenophyllaceae
+14401;Guatteria scandens Ducke;Guatteria;Annonaceae
+144394;Didymochlaena truncatula (Sw.) J.Sm.;Didymochlaena;Didymochlaenaceae
+145020;Cipura paludosa Aubl.;Cipura;Iridaceae
+148220;Aegiphila macrantha Ducke;Aegiphila;Lamiaceae
+148977;Clerodendrum paniculatum L.;Clerodendrum;Lamiaceae
+149264;Congea tomentosa Roxb.;Congea;Lamiaceae
+149682;Gmelina philippensis Cham.;Gmelina;Lamiaceae
+149919;Holmskioldia sanguinea Retz.;Holmskioldia;Lamiaceae
+150135;Hyptis lanceolata Poir.;Hyptis;Lamiaceae
+15014;Rollinia mucosa (Jacq.) Baill.;Annona;Annonaceae
+151469;Ocimum campechianum Mill.;Ocimum;Lamiaceae
+151593;Orthosiphon aristatus (Blume) Miq.;Orthosiphon;Lamiaceae
+15318;Xylopia aromatica (Lam.) Mart.;Xylopia;Annonaceae
+15330;Xylopia cayennensis Maas;Xylopia;Annonaceae
+15355;Xylopia frutescens Aubl.;Xylopia;Annonaceae
+156516;Aniba guianensis Aubl.;Aniba;Lauraceae
+156526;Aniba megaphylla Mez;Aniba;Lauraceae
+158341;Nectandra cissiflora Nees;Nectandra;Lauraceae
+158592;Ocotea cernua (Nees) Mez;Ocotea;Lauraceae
+158653;Ocotea floribunda (Sw.) Mez;Ocotea;Lauraceae
+158736;Ocotea longifolia Kunth;Mespilodaphne;Lauraceae
+158793;Ocotea oblonga (Meisn.) Mez;Ocotea;Lauraceae
+158833;Ocotea puberula (Rich.) Nees;Ocotea;Lauraceae
+159434;Couratari guianensis Aubl.;Couratari;Lecythidaceae
+159516;Eschweilera parviflora (Aubl.) Miers;Eschweilera;Lecythidaceae
+159518;Eschweilera pedicellata (Rich.) S.A.Mori;Eschweilera;Lecythidaceae
+160570;Acacia mangium Willd.;Acacia;Fabaceae
+166822;Caesalpinia pulcherrima (L.) Sw.;Caesalpinia;Fabaceae
+166869;Cajanus cajan (L.) Millsp.;Cajanus;Fabaceae
+169293;Crotalaria retusa L.;Crotalaria;Fabaceae
+171727;Erythrina fusca Lour.;Erythrina;Fabaceae
+173914;Inga alba (Sw.) Willd.;Inga;Fabaceae
+173972;Inga capitata Desv.;Inga;Fabaceae
+174017;Inga edulis Mart.;Inga;Fabaceae
+177730;Mimosa pigra L.;Mimosa;Fabaceae
+177775;Mimosa pudica L.;Mimosa;Fabaceae
+189669;Punica granatum L.;Punica;Lythraceae
+191642;Adansonia digitata L.;Adansonia;Malvaceae
+19165;Allamanda cathartica L.;Allamanda;Apocynaceae
+192311;Ceiba pentandra (L.) Gaertn.;Ceiba;Malvaceae
+194035;Hibiscus rosa-sinensis L.;Hibiscus;Malvaceae
+19489;Asclepias curassavica L.;Asclepias;Apocynaceae
+209328;Psidium guineense Sw.;Psidium;Myrtaceae
+211059;Nephrolepis biserrata (Sw.) Schott;Nephrolepis;Nephrolepidaceae
+244705;Averrhoa carambola L.;Averrhoa;Oxalidaceae
+248392;Turnera ulmifolia L.;Turnera;Turneraceae
+254180;Piper peltatum L.;Piper;Piperaceae
+275029;Eichhornia crassipes (Mart.) Solms;Pontederia;Pontederiaceae
+280085;Ceratopteris thalictroides (L.) Brongn.;Ceratopteris;Pteridaceae
+280698;Pityrogramma calomelanos (L.) Link;Pityrogramma;Pteridaceae
+285398;Cassipourea guianensis Aubl.;Cassipourea;Rhizophoraceae
+29686;Oreopanax capitatus (Jacq.) Decne. & Planch.;Oreopanax;Araliaceae
