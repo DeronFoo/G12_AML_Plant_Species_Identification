@@ -1,7 +1,7 @@
 # 🌿 Cross-Domain Plant Species Identification
 
-**Group 12: VerdantVision** 
-**COS30082 – Applied Machine Learning**
+**Group 12: VerdantVision** <br>
+**COS30082 – Applied Machine Learning** <br>
 *Swinburne University of Technology*
 
 ---
